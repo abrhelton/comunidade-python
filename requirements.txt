@@ -18,7 +18,7 @@ Jinja2==3.0.3
 MarkupSafe==2.0.1
 packaging==21.3
 Pillow==8.4.0
-psycopg2 @ git+https://github.com/nwcell/psycopg2-windows.git@4039d982152492453abdfb72d0054230fcb42c30
+psycopg2==2.9.5
 pyparsing==3.0.7
 SQLAlchemy==1.4.49
 typing_extensions==4.1.1
